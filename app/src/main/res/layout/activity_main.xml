@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="MAD 2020"
+        android:text="MAD reg 2020"
         android:textColor="@color/colorPrimary"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
